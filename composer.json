@@ -1,5 +1,5 @@
 {
-  "name": "ashallendesign/short-url",
+  "name": "andrew867/short-url",
   "description": "A Laravel package for creating shortened URLs for your web apps.",
   "type": "library",
   "homepage": "https://github.com/ash-jc-allen/short-url",
@@ -18,7 +18,7 @@
     "laravel-package"
   ],
   "require": {
-    "php": "^8.0",
+    "php": "^8.1",
     "nesbot/carbon": "~2.0",
     "illuminate/container": "^8.0",
     "illuminate/database": "^8.0",
